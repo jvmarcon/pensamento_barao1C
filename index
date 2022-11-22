@@ -7,7 +7,7 @@
     <title>Nome do site</title>
 </head>
         <body style="background-color:#cccccc">
-            <img src="red.jpg" width="100%">
+            <img src="red.png" width="100%">
             
             <h1 style="text-align: center">Red Styles</h1>
 
